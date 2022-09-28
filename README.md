@@ -1,11 +1,19 @@
 ### Hi there 👋
 
+I'm currently pursuing Master's in Industrial Engineering and Management at IIT Kharagpur.
+
+### Things I'm good at 🔥
+
+Domain : Operations Research | Statistics | Machine Learning | Deep Learning | Internet of Things | Data Analytics.
+Languages : Python, R
+Libraries & Tools : Numpy, Pandas, SkLearn, Matplotlib, Beautiful Soup, Selenium, Tkinter, Keras, Tensorflow
+
 <!--
 **PratikPatel372/PratikPatel372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...a
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
