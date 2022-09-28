@@ -9,9 +9,7 @@ Languages : Python, R
 Libraries & Tools : Numpy, Pandas, SkLearn, Matplotlib, Beautiful Soup, Selenium, Tkinter, Keras, Tensorflow
 
 ### How to reach me 📱
-<a href="https://www.linkedin.com/in/pratik-akbari/"><img align="left" src="https://user-images.githubusercontent.com/68496738/192779611-ed4e4d33-3e67-4287-aad3-40a3f44c061b.png" alt="Pratik | LinkedIn" width="21px"/></a>
-
-https://www.linkedin.com/in/pratik-akbari
+<a href="https://www.linkedin.com/in/pratik-akbari/"><img align="left" src="https://camo.githubusercontent.com/7b192dd5706fb493cac4efdb837b8649e6f24188f962c65510c5ab1dcba915cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f646f6f646c652f36342f3030303030302f6c696e6b6564696e2d636972636c65642e706e67" alt="Pratik | LinkedIn"/></a>
 
 
 <!--
